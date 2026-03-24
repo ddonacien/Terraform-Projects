@@ -1,0 +1,3 @@
+bucket = "terraform-s3-bucket-davis"
+key = "04-backends/dev/dev.state.tfstate"
+region = "us-east-1"
